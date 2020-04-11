@@ -33,7 +33,7 @@ Pego de Rocketseat **[Desafio02](https://github.com/Rocketseat/bootcamp-gostack-
 - Clonar repositório
 - rodar o comando `yarn` para fazer a instalação das dependencias
 - rodar o comando `yarn dev` para rodar o servidor caso queira testar com Insomnia, ou
-- rodar o comando `yarn jest` para rodar os testes automatizados
+- rodar o comando `yarn test` para rodar os testes automatizados
 
 ## :rocket: Sobre o desafio
 
