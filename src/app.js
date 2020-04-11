@@ -60,7 +60,7 @@ app.delete("/repositories/:id", (request, response) => {
 
   repositories.splice(repoIndex, 1);
 
-  return response.status(204).json();
+  return response.status(204).send();
 });
 
 app.post("/repositories/:id/like", (request, response) => {
